@@ -1,0 +1,29 @@
+h1
+{
+font-family: lucida;
+font-size: 50px;
+color: purple;
+text-align: justify;
+font-style: italic;
+font-weight: 600;
+}
+h2
+{
+  font-family: lucida;
+  font-size: 30px;
+color: blue;
+text-align: left;
+font-style: italic;
+font-weight: 900;
+}
+body
+{
+  background-image: 
+background-color: pink;
+}
+p
+{
+font-size: 50px;
+font-family: lucida;
+font-weight: 200;
+}
